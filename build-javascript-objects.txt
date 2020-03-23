@@ -1,0 +1,9 @@
+var myDog = {
+"name": "hello",
+"legs": 3,
+"tails": 2,
+"friends": ["cute", "Dogs"]
+
+
+
+};
